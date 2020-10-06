@@ -1,0 +1,3 @@
+[submodule "PokeApp"]
+	path = PokeApp
+	url = https://github.com/jlimo/PokeApp.git
