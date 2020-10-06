@@ -77,7 +77,7 @@ function handleLogout(e) {
 
   return (
     <Router>
-      <Route path= "/">
+      <Route path="/search">
         <Search />
     </Route>
       <Route exact path="/login">
